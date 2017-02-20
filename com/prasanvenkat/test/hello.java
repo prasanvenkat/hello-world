@@ -1,4 +1,7 @@
 public class hello
 {
-	System.out.println("Hello World!");
+	public static void main(String s[])
+	{
+		System.out.println("Hello World!");
+	}
 }
